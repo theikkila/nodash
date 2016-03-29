@@ -1,0 +1,2 @@
+# nodash
+Clojure utility library
